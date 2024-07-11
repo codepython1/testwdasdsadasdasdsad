@@ -12,3 +12,6 @@ while run:
     FRAME_WINDOW.image(frame)
 else:
     st.write('Stopped')
+
+
+st.camera_input("sad")
